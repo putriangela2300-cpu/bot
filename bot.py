@@ -399,7 +399,7 @@ async def health_handler(request):
 
 async def start_health_server():
     port = int(os.environ.get("PORT", 10000))
-    app = web.Application()
+    app = web.Application()f
     app.router.add_get("/", health_handler)
     app.router.add_get("/health", health_handler)
     runner = web.AppRunner(app)
