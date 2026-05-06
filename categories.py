@@ -11,10 +11,10 @@ CATEGORIES = {
         "starbucks", "mcd", "kfc", "pizza", "roti", "lauk", "sayur",
         "buah", "minuman", "juice", "teh", "susu", "cemilan"
     ],
-    "\U0001f697 Transport": [
+    "\U0001f697 Pengeluaran Lain": [
         "grab", "gojek", "uber", "bensin", "parkir", "tol", "bus",
         "kereta", "ojek", "taxi", "angkot", "transport", "bbm",
-        "pertamax", "pertalite", "solar", "motor", "mobil", "mrt", "lrt"
+        "pertamax", "pertalite", "dollar", "arisan", "topup game", "mrt", "lrt"
     ],
     "\U0001f4f1 Komunikasi": [
         "pulsa", "wifi", "internet", "data", "kuota", "telkomsel",
